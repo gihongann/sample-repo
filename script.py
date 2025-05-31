@@ -9,8 +9,8 @@ import requests
 # print(greet("World"))
 # print(greet("Corey"))
 
-r = requests.get("https://coreyms.com")
-print(r.status_code)
-print(r.ok)
+# r = requests.get("https://coreyms.com")
+# print(r.status_code)
+# print(r.ok)
 print("hello world")
 print("made some changes")
